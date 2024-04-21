@@ -9,7 +9,7 @@ Save life </b> - Повернись живим - [https://savelife.in.ua/en/dona
 
 Trusted international organizations:
 
-Ukrainian Red Cross Society
-UNHCR (the UN Refugee Agency)
-Save the Children
-International Medical Corps
+1. Ukrainian Red Cross Society
+2. UNHCR (the UN Refugee Agency)
+3. Save the Children
+4. International Medical Corps
