@@ -1,10 +1,10 @@
 # Support-Ukraine
 List of actions you can take to support Ukraine and Ukrainians against the Russian invasion
 
-Support Ukrainian via donnation:
+<b><i>Support Ukrainian via donnation:</i></b>
 
-The fund of the National Bank of Ukraine - https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi 
-Save life - Повернись живим - https://savelife.in.ua/en/donate/
+<b>
+Save life </b> - Повернись живим - [https://savelife.in.ua/en/donate/](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 
 
 Trusted international organizations:
